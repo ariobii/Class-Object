@@ -1,0 +1,7 @@
+D:\18.11.2279\Pertemuan 3\CobaClassObject\CobaClassObject\bin\Debug\CobaClassObject.exe.config
+D:\18.11.2279\Pertemuan 3\CobaClassObject\CobaClassObject\bin\Debug\CobaClassObject.exe
+D:\18.11.2279\Pertemuan 3\CobaClassObject\CobaClassObject\bin\Debug\CobaClassObject.pdb
+D:\18.11.2279\Pertemuan 3\CobaClassObject\CobaClassObject\obj\Debug\CobaClassObject.csprojAssemblyReference.cache
+D:\18.11.2279\Pertemuan 3\CobaClassObject\CobaClassObject\obj\Debug\CobaClassObject.csproj.CoreCompileInputs.cache
+D:\18.11.2279\Pertemuan 3\CobaClassObject\CobaClassObject\obj\Debug\CobaClassObject.exe
+D:\18.11.2279\Pertemuan 3\CobaClassObject\CobaClassObject\obj\Debug\CobaClassObject.pdb
